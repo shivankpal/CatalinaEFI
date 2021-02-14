@@ -1,17 +1,17 @@
 # CatalinaEFI
 System Specification:
 
-## MotherBoard
+### MotherBoard
 Gigabyte B450 ds3h wifi/Bluetooth
 
-## Processor
+### Processor
 Amd Ryzen 5 3600
 
-## Ram
+### Ram
 Corsair 16GB Single slot 3600mhz
 
-## Graphics card
+### Graphics card
 Gigabyte Nvidia 710gt ddr5
 
-## Power Suppy
+### Power Suppy
 Gigabyte 550w
